@@ -7,5 +7,6 @@ hipchattest
 4. 4th test
 5. 5th
 6. 6th commit
+7. 7th commit
 
 hipchat testing
